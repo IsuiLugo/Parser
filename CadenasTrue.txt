@@ -1,0 +1,9 @@
+//Lenguajes y Automatas I
+//Cadenas que leera el analizador sintaáctico en su verion final 1.0
+//Equipo A 
+aaab
+aaaab
+aaaaaab
+ab
+abb
+//Fin de las cadenas
